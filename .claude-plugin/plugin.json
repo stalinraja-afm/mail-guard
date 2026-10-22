@@ -1,0 +1,5 @@
+{
+  "name": "mail-guard",
+  "version": "0.1.0",
+  "description": "Asks Send or Reject before any email actually sends; a reject saves it as a draft instead"
+}

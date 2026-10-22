@@ -1,0 +1,5 @@
+{
+  "name": "mail-guard",
+  "owner": { "name": "stalinraja-afm" },
+  "plugins": [{ "name": "mail-guard", "source": "./" }]
+}
